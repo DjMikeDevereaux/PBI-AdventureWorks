@@ -437,11 +437,28 @@ Measure	YTD Revenue	"
         DATESYTD(
             'Calendar Lookup'[Date]))"		Measure Table
 
+## Insights Principales
 
+Main Insights:
 
+- Identification of the territories with the highest contribution to sales.
+- Most profitable subcategories and products.
+- Clients with the biggest impact on revenue.
+- Return rate and products with the highest incidence.
+- Marked seasonality in certain months
 
+## Takeaways
+The dashboard lets you:
 
+- Analyze net sales, including returns.
+- Identify key products and subcategories.
+- Check performance by territory and customer.
+- Spot time patterns that affect business performance.
+- Make strategic decisions based on real data.
 
+## Credits
+Project developed as part of the Microsoft Power BI Desktop for Business Intelligence
+by Maven Analytics (Chris Dutton & Aaron Parry)
 
 
 
