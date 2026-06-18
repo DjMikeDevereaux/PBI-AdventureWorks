@@ -117,11 +117,13 @@ Main relationships:
 
 Includes:
 
-- **KPIs**: Total sales, net sales, returns, year-over-year growth.
-- **Time trend**: Monthly sales 2020–2022.
-- **Map or bars by territory**.
-- **Top products and subcategories**.
-- **Most important customers**.
+- **KPIs**: Total Revenue, Total Profit, Total Orders, Return Rate, Monthly: Revenue, Orders and Returns
+- **Time trend**: Revenue Trending.
+- **Bars Orders by Category**.
+- **Matrix Yop 10 Products**
+- **Map Orders by territory**.
+- **Gauge charts** Profit, Orders and Revenue vs targets
+- **Card: Most important customers by Revenue**.
 - **Returns analysis**: return rate, revenue impact.
 - **Slicers**: Year, month, territory, customer, product, subcategory.
 
