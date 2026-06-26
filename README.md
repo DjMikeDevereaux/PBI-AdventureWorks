@@ -22,7 +22,6 @@ Power BI Report, including chart, cards, maps, tables, sliders, parameters, narr
 │     ├── Product_deatail.png
 │     └── Customer_detail.png
 
-
 # 📊 Sales Dashboard 2020–2022 – Power BI
 
 This project presents an **interactive dashboard in Power BI** based on historical sales data from **2020 to 2022**, complemented with information on **territories**, **customers**, **products**, **subcategories**, **returns**, and a **calendar table** for advanced time analysis.
